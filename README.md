@@ -10,7 +10,6 @@
 
 - 👋 Hi, I’m Zhenghao Peng.
 - 👀 Please visit my homepage: https://pengzhenghao.github.io
-- 💞️ I’m looking for summer internship in 2023
 - 📫 Feel free to contact me via: pzh@cs.ucla.edu
 
 <!---
