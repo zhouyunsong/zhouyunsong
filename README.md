@@ -8,7 +8,7 @@
 --->
 
 
-- 👋 Hi, I’m Zhenghao Peng.
+- 👋 Hi, I’m Zhenghao (Mark) Peng.
 - 👀 Please visit my homepage: https://pengzhenghao.github.io
 - 📫 Feel free to contact me via: pzh@cs.ucla.edu
 
