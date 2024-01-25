@@ -8,7 +8,7 @@
 --->
 
 
-- 👋 Hi, I’m Zhenghao Peng.
+- 👋 Hi, I’m Zhenghao Peng. Pronunciated as "Zen-How Pen" is fine.
 - 👀 Please visit my homepage: https://pengzhenghao.github.io
 - 📫 Feel free to contact me via: pzh AT cs.ucla.edu
 
