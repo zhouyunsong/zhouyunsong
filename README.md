@@ -8,9 +8,9 @@
 --->
 
 
-- 👋 Hi, I’m Zhenghao (Mark) Peng.
+- 👋 Hi, I’m Zhenghao Peng.
 - 👀 Please visit my homepage: https://pengzhenghao.github.io
-- 📫 Feel free to contact me via: pzh@cs.ucla.edu
+- 📫 Feel free to contact me via: pzh AT cs.ucla.edu
 
 <!---
 pengzhenghao/pengzhenghao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
