@@ -8,7 +8,13 @@
 --->
 
 
-- 👋 Hi, I’m Zhenghao Peng. Pronunciated as "Zen-How Pen" is fine.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake.svg">
+</picture>
+
+- 👋 Hi, I’m Zhenghao Peng.
 - 👀 Please visit my homepage: https://pengzhenghao.github.io
 - 📫 Feel free to contact me via: pzh AT cs.ucla.edu
 
