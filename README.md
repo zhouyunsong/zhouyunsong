@@ -14,7 +14,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhouYunsong-SJTU/ZhouYunsong-SJTU/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👋 Hi, I’m Yunsong Zhou.
+- 👋 Hi, I’m Yunsong Zhou (Pronunciation like Ethan Joe).
 - 👀 Please visit my homepage: https://zhouyunsong-sjtu.github.io/
 - 📫 Feel free to contact me via: zhouyunsong AT sjtu.edu.cn
 
