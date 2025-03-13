@@ -1,6 +1,4 @@
 
-<img src="./assets/yszhou.png" alt="yszhou" style="max-width:100%; height:auto;">
-
 
 <!---
 [![Yunsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouyunsong&count_private=true&show_icons=true&theme=graywhite&hide=commits&include_all_commits=true)](https://zhouyunsong.github.io/)
@@ -16,7 +14,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhouyunsong/zhouyunsong/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👋 Hi, I’m Yunsong Zhou (Pronunciation like Ethan Joe).
+
+
+- 👋 Hi, I’m <img src="./assets/yszhou.png" alt="yszhou" style="width:auto; height:25px; vertical-align: middle;"> (Pronunciation like Ethan Joe).
 - 👀 Please visit my homepage: https://zhouyunsong.github.io/
 - 📫 Feel free to contact me via: zhouyunsong AT sjtu.edu.cn
 
